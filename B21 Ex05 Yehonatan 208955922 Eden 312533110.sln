@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeLogic", "TicTacToeLogic\TicTacToeLogic.csproj", "{23E0AC36-7ACD-4107-880E-90F9724B9CBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A0E3981-6C2F-45A6-8378-B5B0BF7234CA}"
+	ProjectSection(SolutionItems) = preProject
+		SUBMIT DN IDC B21 Ex05 YehonatanToledano 208955922 EdenNishri 312533110.txt = SUBMIT DN IDC B21 Ex05 YehonatanToledano 208955922 EdenNishri 312533110.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E0AC36-7ACD-4107-880E-90F9724B9CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E0AC36-7ACD-4107-880E-90F9724B9CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E0AC36-7ACD-4107-880E-90F9724B9CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E0AC36-7ACD-4107-880E-90F9724B9CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C582B5-E118-4E04-A9D5-1DA0095FF1F3}
+	EndGlobalSection
+EndGlobal
